@@ -1,0 +1,4 @@
+bonus question
+
+1. According to my research, flow cytometry is an analytical technique used in various fields for cell counting, sorting, and biomarker detection. Steps to perform such technique includes: first label the cell with fluorescent dyes, then pass those cells through laser beams which would lead to light emitted by the fluorescent dyes in various wavelengths. With different detectors, and detection methods, those lights will provide different properties of the cells. Finally, we can collect data and analyze them.
+2. According to the last two scatter plot, I would suggest using k-means to identify those data points, because it is clear that the data points are scatter in groups and k-means can be used to identify those groups.
